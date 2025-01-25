@@ -3,7 +3,7 @@ using Cysharp.Threading.Tasks;
 using UnityEngine;
 
 namespace RyUI {
-	public class UIManager : IUIManager
+	public partial class UIManager : IUIManager
 	{
 		private Transform canvas;
 
