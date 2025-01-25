@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Snowship.NUI
+namespace RyUI
 {
 	public class UIGroup<TConfig, TView, TPresenter> : IUIGroup
 		where TConfig : IUIConfig

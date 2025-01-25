@@ -1,4 +1,4 @@
-﻿namespace Snowship.NUI
+﻿namespace RyUI
 {
 	public abstract class UIPresenter<TView> : IUIPresenter
 		where TView : UIView

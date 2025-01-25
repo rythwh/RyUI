@@ -5,7 +5,7 @@ using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
 using Object = UnityEngine.Object;
 
-namespace Snowship.NUI
+namespace RyUI
 {
 	public class UIConfig<TView, TPresenter> : IUIConfig
 		where TView : IUIView

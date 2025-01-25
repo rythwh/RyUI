@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Snowship.NUI {
+namespace RyUI {
 	public abstract class UIView : MonoBehaviour, IUIView {
 
 		private GameObject instance;

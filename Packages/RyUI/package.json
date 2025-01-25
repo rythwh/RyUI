@@ -1,6 +1,6 @@
 {
   "name": "com.rywh.ryui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "RyUI",
   "description": "A custom UI-manager, allowing for opening and handling UI screens and components.",
   "unity": "6000.0",
