@@ -2,10 +2,10 @@
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 
-namespace Snowship.NUI {
-	public class UIManager : IUIManager
+namespace RyUI {
+	public partial class UIManager : IUIManager
 	{
-		private Transform canvas;
+		public Transform canvas;
 
 		private readonly List<IUIGroup> parentGroups = new List<IUIGroup>();
 

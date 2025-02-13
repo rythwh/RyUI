@@ -4,7 +4,7 @@ using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
 using Object = UnityEngine.Object;
 
-namespace Snowship.NUI {
+namespace RyUI {
 	public abstract class UIElement<TComponent> where TComponent : UIElementComponent {
 		protected TComponent Component { get; private set; }
 

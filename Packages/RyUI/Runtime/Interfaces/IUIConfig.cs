@@ -1,7 +1,7 @@
 ﻿using Cysharp.Threading.Tasks;
 using UnityEngine;
 
-namespace Snowship.NUI
+namespace RyUI
 {
 	public interface IUIConfig {
 		public UniTask<(IUIView view, IUIPresenter presenter)> Open(Transform parent);

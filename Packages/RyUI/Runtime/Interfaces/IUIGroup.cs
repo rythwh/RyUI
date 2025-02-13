@@ -1,4 +1,4 @@
-﻿namespace Snowship.NUI
+﻿namespace RyUI
 {
 	public interface IUIGroup {
 		IUIView View { get; }
