@@ -1,9 +1,9 @@
 {
   "name": "com.rywh.ryui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "RyUI",
   "description": "A custom UI-manager, allowing for opening and handling UI screens and components.",
-  "unity": "6000.0",
+  "unity": "2022.0",
   "dependencies": {
     "com.cysharp.unitask": "2.5.3",
     "com.unity.addressables": "2.2.2"
@@ -16,5 +16,6 @@
   "author": {
     "name": "Ryan White",
     "url": "https://github.com/rythwh"
-  }
+  },
+  "unityRelease": "0f1"
 }
